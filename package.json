@@ -1,0 +1,20 @@
+{
+  "name": "2017-jan-30-warmup",
+  "version": "1.0.0",
+  "description": "You come across an information kiosk with a list of rooms. Of course, the list is encrypted and full of decoy data, but the instructions to decode the list are barely hidden nearby. Better remove the decoy data first.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olitreadwell/warmup-01-30-17.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olitreadwell/warmup-01-30-17/issues"
+  },
+  "homepage": "https://github.com/olitreadwell/warmup-01-30-17#readme"
+}
